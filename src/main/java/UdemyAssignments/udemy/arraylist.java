@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class arraylist {
 
 	public static void main(String[] args) {
-    int a[]= {1,4,4,2,2,1,1,5,5,5,6,1};
+    int a[]= {1,4,4,5,6,1};
     ArrayList<Integer> ab = new ArrayList<Integer>();
     for(int i=0;i<a.length;i++) {
     	int k = 0;
